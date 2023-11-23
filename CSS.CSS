@@ -16,7 +16,7 @@ ul {
     li a:hover {
     background-color : #111;
     }
-    img {
+    #logo {
         height: 110;
         width: 90;
     }
