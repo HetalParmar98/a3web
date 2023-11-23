@@ -123,14 +123,14 @@ Purpose: This is CSS part related to video tag starts here
 /* CSS for video ends here */
 
 /* CSS for Javascript strat here  */
-body{
+.body{
     transition:background-color 0.5s,color 0.5s;
 }
 .dark-mode{
     background-color:#515151;
-    color:white;
-    
+    color:white;  
 }
+
 /*  CSS end for dark mode ends here */
 
 /******************
