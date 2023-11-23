@@ -42,16 +42,16 @@ ul {
 
 #Intersection {
     display: block;
-    margin-left: auto;
+    margin-left: 350px;
 
   }
 
 #Remote {
     display: block;
-    margin-right: auto;
+    margin-left: 1300px;
   }
 
 #Survey {
     display: block;
-    margin-left: auto;
+    margin-left: 350px;
   }
