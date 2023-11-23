@@ -86,12 +86,19 @@ ul {
   }
 /*style for the images ends*/
 
+/* ************************
+Owner: Hetal Parmar
+Date:22-11-23
+From:https://www.w3schools.com/html/html5_video.asp
+Purpose: This is CSS part related to video tag starts here
+***************************** */
+
   .banner video{
     position:absolute;
     top: 100px;
     right: 10px;
     bottom: 50%;
-    z-index:-1;
+  
     align-items: center;
     padding-top: 10px;;
 }
@@ -112,12 +119,10 @@ ul {
        
     }
 }
-h1{
-    text-align: center;
-    font-weight: 200;
-    font:10px ;
-    padding-top:10px;
-}  
+ 
+/* CSS for video ends here */
+
+/* CSS for Javascript strat here  */
 body{
     transition:background-color 0.5s,color 0.5s;
 }
@@ -126,6 +131,8 @@ body{
     color:white;
     
 }
+/*  CSS end for dark mode ends here */
+
 /******************
 * Owner: Sushmita Acharya
 * Date: 22 November,23
