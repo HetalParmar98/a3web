@@ -35,6 +35,20 @@
         <br>
         <img src="image/Survey.jpg" alt="Feild Survey" id="Survey">
 
+        <div class="banner">
+            <video autoplay loop muted play-inline class="backvideo">
+               <source src="Demo1.mp4" type="video/mp4">
+           </video>
+        </div>
+             
+               <button onclick="toggleMode()">Dark/Light Mode</button>
+           <script>
+               function toggleMode(){
+                   const body = document.body;
+                   body.classList.toggle('dark-mode');
+               }
+           </script>
+
       
     </body>
 </html>
