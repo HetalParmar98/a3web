@@ -148,7 +148,7 @@ h1{
 /*Styling the first paragraph in footer section*/
 p{
     text-align: center;
-    text-decoration-color: black;
+    color: black;
     font-style:italic;
     font-size: 20px;
 }
