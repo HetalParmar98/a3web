@@ -38,24 +38,44 @@ ul {
 * Owner: Nuthan Abhiram Chenelli
 * Date: 22 November 2023
 * From: https://www.w3schools.com/css/default.asp
-* Purpose: This is the CSS part related to HTML of "quote" in website.
+* Purpose: This is the CSS part related to HTML of "quote" and text below images in website.
 *******************************/
 
-   p{
+#quote {
     font-family: "Trebuchet MS";
     font-style: italic;
     color: navy;                          
     font-size: 40px;
-    text-align: center; 
+    text-align: left; 
    }
 
 #Author {
     font-family: 'Trebuchet MS';
-    text-align: right;
+    text-align: left;
     color: blue;                          
-    font-size: 30px;      
+    font-size: 20px;      
 }
 
+#UrbanPlanning {
+    font-family: 'Trebuchet MS';
+    text-align: left;
+    color: blue;                          
+    font-size: 20px;      
+}
+
+#RemoteSensing {
+    font-family: 'Trebuchet MS';
+    text-align: left;
+    color: blue;                          
+    font-size: 20px;      
+}
+
+#Surveying {
+    font-family: 'Trebuchet MS';
+    text-align: left;
+    color: blue;                          
+    font-size: 20px;      
+}
 
 /* End Owner: Nuthan Abhiram Chenelli */
 
@@ -123,14 +143,14 @@ Purpose: This is CSS part related to video tag starts here
 /* CSS for video ends here */
 
 /* CSS for Javascript strat here  */
-body{
+.body{
     transition:background-color 0.5s,color 0.5s;
 }
 .dark-mode{
     background-color:#515151;
-    color:white;
-    
+    color:white;  
 }
+
 /*  CSS end for dark mode ends here */
 
 /******************
