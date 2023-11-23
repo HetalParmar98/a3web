@@ -16,7 +16,10 @@ ul {
     li a:hover {
     background-color : #111;
     }
-
+    #logo {
+        height: 50px;
+        width: 40px;
+    }
     h2 {
     text-align: left;
     font-family: verdana;
