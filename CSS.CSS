@@ -23,21 +23,15 @@ ul {
     }
    p{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    width: 100px;
     font-style: italic;
     color: navy;                          
-    font-size: 40px;                                 
-    background-color: whitesmoke;
-
-}
+    font-size: 40px;
+    text-align: center; 
+   }
 
 .Author {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    width: 100px;
     text-align: right;
     color: blue;                          
-    font-size: 20px;                                 
-    text-align: right;
-    text-indent: 80%;
-    background-color: antiquewhite;
+    font-size: 30px;      
 }
