@@ -55,3 +55,44 @@ ul {
     display: block;
     margin-left: 350px;
   }
+
+  .banner video{
+    position:absolute;
+    top: 100px;
+    right: 10px;
+    bottom: 50%;
+    z-index:-1;
+    align-items: center;
+    padding-top: 10px;;
+}
+
+ @media(min-aspect-ratio:16/9)
+{
+    .banner video{
+        width:100%;
+        height: 45%;
+       
+    }
+}
+@media(max-aspect-ratio:16/9)
+{
+    .banner video{
+        width:auto;
+        height:45%;
+       
+    }
+}
+h1{
+    text-align: center;
+    font-weight: 200;
+    font:10px ;
+    padding-top:10px;
+}  
+body{
+    transition:background-color 0.5s,color 0.5s;
+}
+.dark-mode{
+    background-color:#515151;
+    color:white;
+    
+}
