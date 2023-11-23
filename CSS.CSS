@@ -120,6 +120,7 @@ Purpose: This is CSS part related to video tag starts here
     right: 10px;
     bottom:100px;
     align-items:end;
+    /* z-index: -1; */
     /* padding-top: 10px;; */
 } 
 
@@ -150,6 +151,7 @@ Purpose: This is CSS part related to video tag starts here
     background-color:#515151;
     color:white;  
 }
+
 
 /*  CSS end for dark mode ends here */
 
