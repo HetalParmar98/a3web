@@ -36,3 +36,19 @@ ul {
     color: blue;                          
     font-size: 30px;      
 }
+
+#Intersection {
+    display: block;
+    margin-left: auto;
+
+  }
+
+#Remote {
+    display: block;
+    margin-right: auto;
+  }
+
+#Survey {
+    display: block;
+    margin-left: auto;
+  }
