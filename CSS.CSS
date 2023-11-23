@@ -46,21 +46,30 @@ ul {
     font-size: 30px;      
 }
 
+/*style for the images starts*/
+/*owner: Ashwin Balaji Srinivasan*/
+/*the style focuses mainly on the alignment of the images and being responsive*/
 #Intersection {
     display: block;
     margin-left: 350px;
-
+    width: 15%;
+    height: 15%;
   }
 
 #Remote {
     display: block;
     margin-left: 1300px;
+    width: 15%;
+    height: 15%;
   }
 
 #Survey {
     display: block;
     margin-left: 350px;
+    width: 15%;
+    height: 15%;
   }
+/*style for the images ends*/
 
   .banner video{
     position:absolute;
