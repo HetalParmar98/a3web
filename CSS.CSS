@@ -31,6 +31,14 @@ ul {
     font-style: bold;
     }
     /* End Owner: Naini Singh */
+
+    /* ****************************
+* Owner: Nuthan Abhiram Chenelli
+* Date: 22 November 2023
+* From: https://www.w3schools.com/css/default.asp
+* Purpose: This is the CSS part related to HTML of "quote" in website.
+*******************************/
+
    p{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-style: italic;
@@ -46,9 +54,15 @@ ul {
     font-size: 30px;      
 }
 
+
+/* End Owner: Nuthan Abhiram Chenelli */
+
+
+
 /*style for the images starts*/
 /*owner: Ashwin Balaji Srinivasan*/
 /*the style focuses mainly on the alignment of the images and being responsive*/
+
 #Intersection {
     display: block;
     margin-left: 350px;
