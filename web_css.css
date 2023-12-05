@@ -134,3 +134,47 @@ img {
 .mess_age {
   padding: 50px 50px;
 }
+
+/*Styling the font for all the footer content*/
+footer{
+    font-family:Verdana;
+    text-align: center;
+}
+/*Assigning box size for the contained element*/
+*{
+    box-sizing: border-box;
+}
+/*Styling the main heading in footer section*/
+h1{
+    text-align: center;
+    font-style: bold;
+}
+
+/*Styling the first paragraph in footer section*/
+p{
+    text-align: center;
+    text-decoration-color: black;
+}
+
+/*Styling the social icons on the footer section*/
+.social-icons a {
+    display: inline-block;
+    margin: 10px 10px;
+    border-radius: 50%;
+    background-color: black;
+    padding:10px;
+    color:white;
+    text-decoration:none;
+    font-size:18px
+}
+
+/*Styling the container for the footer section*/
+.container{
+    width:100%;
+    height:350px;
+    position:relative;
+    text-align:center;
+    align-items: center;
+    background-color:beige;
+    padding: 30px 30px;
+}
