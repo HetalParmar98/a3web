@@ -149,7 +149,7 @@ hd2 {
 
 /*top image start here*/
 
-.img-serv {
+.img-serv {          /*https://www.pexels.com/search/geography/ */  
   margin-left: 5%;
   max-width: 100%;
   width: 1700px;
@@ -177,7 +177,7 @@ hd2 {
   width: 80%;
 }
 
-.surveyingabimg {
+.surveyingabimg {          /* https://www.shutterstock.com/search/land-surveyor */  
   float: left;
   width: 300px;
   height: 300px;
@@ -212,7 +212,7 @@ hd2 {
   width: 80%;
 }
 
-.cartoimg {
+.cartoimg {             /* https://en.wikipedia.org/wiki/File:World_Map_1689.JPG */ 
   float: left;
   width: 300px;
   height: 300px;
@@ -247,7 +247,7 @@ hd2 {
   width: 80%;
 }
 
-.datamimg {
+.datamimg {         /*  https://www.dreamstime.com/photos-images/data-management.html */ 
   float: left;
   width: 300px;
   height: 300px;
@@ -281,7 +281,7 @@ hd2 {
   width: 80%;
 }
 
-.remotesimg {
+.remotesimg {      /* https://depositphotos.com/photos/remote-sensing.html*/ 
   float: left;
   width: 300px;
   height: 300px;
@@ -316,7 +316,7 @@ hd2 {
   padding-bottom: 10px;
 }
 
-.webandappimg {
+.webandappimg {         /* https://pixabay.com/images/search/web%20design/ */ 
   float: left;
   width: 300px;
   height: 300px;
@@ -355,7 +355,7 @@ hd2 {
 
 /*Details related to software page starts here*/
 
-.firstimage {                               
+.firstimage {                /* https://unsplash.com/s/photos/people-computer */                 
   position: center;
   text-align: center;
   color: white;
