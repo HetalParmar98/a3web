@@ -16,7 +16,6 @@ li {
   float: left;
   border-right: 1px solid black;
   background-color:black;
-  
 }
 
 li a {
@@ -48,7 +47,7 @@ li a:hover {
 .leftcolumn {   
     float: left;
     width: 75%;
-  }
+}
   
  
 .rightcolumn {
@@ -143,7 +142,7 @@ hd2 {
 
 /* ****************************
 * Owner: Nuthan Abhiram Chenelli
-* Date: 22 November 2023
+* Date: 03 November 2023
 * From: https://www.w3schools.com/css/default.asp
 * Purpose: This is the CSS part related to HTML of "quote" and also text realted to images in website.
 *******************************/
@@ -454,7 +453,7 @@ table {
   font-family: sans-serif;
   width: 70%;
   border-spacing: 30px;
-  margin-left: 18%;
+  margin-left: 15%;
   padding-top: 25px;
 }
 
