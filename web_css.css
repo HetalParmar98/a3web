@@ -9,19 +9,19 @@ ul {
   position: fixed;
   top: 0;
   width: 100%;
-  background-color: lightyellow;
+  background-color:black;
   }
 
 li {
   float: left;
   border-right: 1px solid black;
-  background-color: lightyellow;
+  background-color:black;
   
 }
 
 li a {
   display: block;
-  color: brown;
+  color:white;
   text-align: center;
   font-family: Verdana;
   padding: 15px;
@@ -29,22 +29,17 @@ li a {
 }
 
 li a:hover {
-    background-color : white;
+  background-color : lightgray;
 }
 
-li:last-child {
-  border-right: none;
-}
 
-.active {
-  background-color: white;
-}
 .rightend {
  float: right;
 }
 
 .header {
-    padding: 180px;
+    padding-top: 150px;
+    padding-bottom: 60px;
     text-align: center;
     background: white;
 }
@@ -89,12 +84,13 @@ li:last-child {
 
 .abouthead2 {
     font-family: sans-serif;
+    margin-top: 0;
   }
 
 .aboutush2 {
     font-family: 'Courier New', Courier, monospace;
     font-size: 30px;
-    margin-top: 5px;
+    margin: 0;
 }
 
 .aboutp1 {
