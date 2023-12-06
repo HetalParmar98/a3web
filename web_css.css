@@ -214,12 +214,12 @@ footer{
 
 /*Details related to surveying starts here*/
 
-.surveyingpart {
+.surveyingabpart {
   margin-left: 10%;
   width: 80%;
 }
 
-.surveyingimg {
+.surveyingabimg {
   float: left;
   width: 300px;
   height: 300px;
@@ -228,7 +228,7 @@ footer{
   padding-top: 20px;
 }
 
-.surveyingtext h1 {
+.surveyingabtext h1 {
   font-size: 30px;
   font-family: monoid;
   color: blue;
@@ -237,7 +237,7 @@ footer{
   padding-bottom: 10px;
 }
 
-.surveyingtext p {
+.surveyingabtext p {
   font-size: 20px;
   font-family: monoid;
   color: green;
