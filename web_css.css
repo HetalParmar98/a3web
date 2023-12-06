@@ -182,7 +182,7 @@ footer{
   text-decoration:none;
   font-size:18px
 }
-			/* ****************************
+/* ****************************
 * Owner: Nuthan Abhiram Chenelli
 * Date: 22 November 2023
 * From: https://www.w3schools.com/css/default.asp
@@ -212,6 +212,144 @@ footer{
 
 /*Heading end here*/
 
+/*Details related to cartography here*/
+
+.cartopart {
+  margin-left: 10%;
+  width: 80%;
+}
+
+.cartoimg {
+  float: left;
+  width: 300px;
+  height: 300px;
+  border-radius: 50px;
+  padding-right: 10px;
+  padding-top: 10px;
+}
+
+.cartotext h2 {
+  font-size: 30px;
+  font-family: monoid;
+  padding-top: 30px;
+  text-align: center;
+  color: blue;
+}
+
+.cartotext p {
+  font-size: 20px;
+  font-family: monoid;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  color: green;
+  text-align: center;
+}
+
+/*Details related to cartography ends here*/
+
+/*Details related to datamanagement starts here*/
+
+.datampart {
+  margin-left: 10%;
+  width: 80%;
+}
+
+.datamimg {
+  float: left;
+  width: 300px;
+  height: 300px;
+  border-radius: 50px;
+  padding-right: 10px;
+}
+
+.datamtext h3 {
+  font-size: 30px;
+  font-family: monoid;
+  padding-top: 30px;
+  text-align: center;
+  color: blue;
+}
+
+.datamtext p {
+  font-size: 20px;
+  font-family: monoid;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  color: green;
+  text-align: center;
+}
+
+/*Details related to data management ends here*/
+
+/*Details related to Remote sensing starts here*/
+
+.remotespart {
+  margin-left: 10%;
+  width: 80%;
+}
+
+.remotesimg {
+  float: left;
+  width: 300px;
+  height: 300px;
+  border-radius: 50px;
+  padding-right: 10px;
+}
+
+.remotestext h4 {
+  font-size: 30px;
+  font-family: monoid;
+  padding-top: 30px;
+  text-align: center;
+  color: blue;
+}
+
+.remotestext p {
+  font-size: 20px;
+  font-family: monoid;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  color: green;
+  text-align: center;
+}
+
+/*Details related to Remote sensing ends here*/
+
+/*Details related to web and app starts here*/
+
+.webandapppart {
+  margin-left: 10%;
+  width: 80%;
+  padding-bottom: 10px;
+}
+
+.webandappimg {
+  float: left;
+  width: 300px;
+  height: 300px;
+  border-radius: 50px;
+  padding-right: 10px;
+}
+
+.webandapptext h5 {
+  text-align: center;
+  font-size: 30px;
+  font-family: monoid;
+  padding-top: 30px;
+  color: blue;
+}
+
+.webandapptext p {
+  font-size: 20px;
+  font-family: monoid;
+  padding-bottom: 30px;
+  color: green;
+  text-align: center;
+}
+
+/*Details related to web and app ends here*/
+
+/* Details relate to CSS of the service page end here
 
 
 
