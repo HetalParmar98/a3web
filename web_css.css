@@ -189,7 +189,7 @@ hd2 {
 .surveyingabtext h1 {
   font-size: 30px;
   font-family: monoid;
-  color: blue;
+  color: black;
   padding-top: 30px;
   text-align: center;
   padding-bottom: 10px;
@@ -226,7 +226,7 @@ hd2 {
   font-family: monoid;
   padding-top: 30px;
   text-align: center;
-  color: blue;
+  color: black;
 }
 
 .cartotext p {
@@ -260,7 +260,7 @@ hd2 {
   font-family: monoid;
   padding-top: 30px;
   text-align: center;
-  color: blue;
+  color: black;
 }
 
 .datamtext p {
@@ -294,7 +294,7 @@ hd2 {
   font-family: monoid;
   padding-top: 30px;
   text-align: center;
-  color: blue;
+  color: black;
 }
 
 .remotestext p {
@@ -329,7 +329,7 @@ hd2 {
   font-size: 30px;
   font-family: monoid;
   padding-top: 30px;
-  color: blue;
+  color: black;
 }
 
 .webandapptext p {
