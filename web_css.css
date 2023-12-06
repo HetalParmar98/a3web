@@ -380,7 +380,7 @@ hd2 {
 }
 
 #softwaretext {
-  color: green;
+  color: black;
   text-align: center;
   font-size: 50px;
   font-family: verdana;
@@ -482,7 +482,7 @@ tr {
 /*Details related to contact us text starts here*/
 
 #contactus {
-  color: blue;
+  color: black;
   margin-left: 28%;
   font-size: 40px;
 }
