@@ -130,3 +130,57 @@ img {
 .mess_age {
   padding: 50px 50px;
 }
+/*Styling the container for the footer section*/
+.container2{
+    width:100%;
+    height:275px;
+    position:relative;
+    text-align:center;
+    align-items: center;
+    background-color:beige;
+}
+/*Adjusting the footer content on center*/
+footer{
+    text-align: center;
+}
+/*Assigning box size for the contained element*/
+*{
+    box-sizing: border-box;
+}
+
+/*Styling the main heading in footer section*/
+.head1{
+    text-align: center;
+    font-style: bold;
+    padding-top: 20px;
+}
+/*Styling the first paragraph in footer section*/
+.para{
+    text-align: center;
+    font-style: italic;
+    text-decoration-color: black;
+}
+/*Styling the social icons on the footer section*/
+.social-icons a {
+    display: inline-block;
+    margin: 10px 10px;
+    border-radius: 50%;
+    background-color: black;
+    padding:10px;
+    color:white;
+    text-decoration:none;
+    font-size:18px
+
+}
+
+/*Adjusting the display for smaller screen aswell, making the page responsive*/
+@media screen and (max-width: 650px){
+    .col{
+        width:100%;
+        margin-top:0
+    }
+/*Not displayig the vertical line on the small screen*/
+    .vl{
+        display:none;
+    }
+}
