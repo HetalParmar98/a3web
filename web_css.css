@@ -181,5 +181,40 @@ footer{
   color:white;
   text-decoration:none;
   font-size:18px
-
 }
+			/* ****************************
+* Owner: Nuthan Abhiram Chenelli
+* Date: 22 November 2023
+* From: https://www.w3schools.com/css/default.asp
+* Purpose: This is the CSS part related to HTML of "quote" and also text realted to images in website.
+*******************************/
+
+/*top image start here*/
+
+.img-serv {
+  margin-left: 5%;
+  max-width: 100%;
+  width: 1700px;
+  height: 500px;
+  padding-top: 50px;
+}
+
+/*top image ends here*/
+
+/*Heading start here*/
+
+#services{
+  color: darkgreen;
+  text-align: center;
+  font-size: 50px;
+  font-family: verdana;
+}
+
+/*Heading end here*/
+
+
+
+
+
+
+
