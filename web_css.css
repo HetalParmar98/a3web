@@ -141,47 +141,6 @@ hd2 {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-/*Styling the container for the footer section*/
-.container2{
-  width:100%;
-  height:275px;
-  position:relative;
-  text-align:center;
-  align-items: center;
-  background-color:beige;
-}
-/*Adjusting the footer content on center*/
-footer{
-  text-align: center;
-}
-/*Assigning box size for the contained element*/
-*{
-  box-sizing: border-box;
-}
-
-/*Styling the main heading in footer section*/
-.head1{
-  text-align: center;
-  font-style: bold;
-  padding-top: 20px;
-}
-/*Styling the first paragraph in footer section*/
-.para{
-  text-align: center;
-  font-style: italic;
-  text-decoration-color: black;
-}
-/*Styling the social icons on the footer section*/
-.social-icons a {
-  display: inline-block;
-  margin: 10px 10px;
-  border-radius: 50%;
-  background-color: black;
-  padding:10px;
-  color:white;
-  text-decoration:none;
-  font-size:18px
-}
 /* ****************************
 * Owner: Nuthan Abhiram Chenelli
 * Date: 22 November 2023
@@ -386,7 +345,189 @@ footer{
 
 /* Details relate to CSS of the service page end here
 
+/******************************************************************************************************************** */
 
+/*Details related to software page starts here*/
+
+.firstimage {                               
+  position: center;
+  text-align: center;
+  color: white;
+  border-radius: 10px;
+  padding-top: 50px;
+}
+
+.softwareimg {
+  width: 1400px;
+  height: 600px;
+  opacity: 0.6;
+}
+
+.centered {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -150%);
+  font-size: 55px;
+  font-style: italic;
+  font-weight: bold;
+  color: blue;
+}
+
+#softwaretext {
+  color: green;
+  text-align: center;
+  font-size: 50px;
+  font-family: verdana;
+}
+
+/*Details related to first image of software page ends here*/
+
+/*Details related to software columns page starts here*/
+
+.column {
+  float: left;
+  width: 27%;
+  height: 350px;
+  background-color: lightblue;
+  margin-left:5%;
+  padding-top: 60px;
+  border-radius: 10px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+  padding-top: 30px;
+}
+
+
+.column h2{
+  color: navy;
+  font-style: italic;
+  font-size: 35px;
+  text-align: center;
+}
+
+.column p{
+  color: green;
+  font-size: 18px;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+/*Details related to software columns page ends here*/
+
+/*Details related to custom plan starts here*/
+
+.selectswcont {
+  height: 100px;
+  width: 50%;
+  background-color: whitesmoke;
+  margin-left: 27%;
+  padding-left: 30px;
+  border-radius: 10px;
+}
+
+.selectsw h3 {
+  color: red;
+  font-style: italic;
+  font-size: 25px;
+  text-align: center;
+  font-family: sans-serif;
+  padding-top: 10px;
+
+}
+
+.selectsw p {
+  color: black;
+  font-size: 20px;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+/*Details related to custom plan ends here*/
+
+/*Details related to custom plan table starts here*/
+
+table {
+  font-family: sans-serif;
+  width: 70%;
+  border-spacing: 30px;
+  margin-left: 18%;
+  padding-top: 25px;
+}
+
+th {
+  border-style: solid;
+  text-align: center;
+  padding-bottom: 8px;
+
+}
+
+tr {
+  color: green;
+  font-size: 20px;
+  text-align: center;
+}
+
+/*Details related to custom plan table ends here*/
+
+/*Details related to contact us text starts here*/
+
+#contactus {
+  color: blue;
+  margin-left: 30%;
+  font-size: 40px;
+}
+
+/*Details related to contact us text ends here*/
+
+/* Details relate to CSS of the service page end here
+End Owner: Nuthan Abhiram Chenelli */
+
+/*Styling the container for the footer section*/
+
+.containerfoot{
+  width:100%;
+  height:275px;
+  position:relative;
+  text-align:center;
+  align-items: center;
+  background-color:beige;
+}
+/*Adjusting the footer content on center*/
+footer{
+  text-align: center;
+}
+/*Assigning box size for the contained element*/
+*{
+  box-sizing: border-box;
+}
+
+/*Styling the main heading in footer section*/
+.head1{
+  text-align: center;
+  font-style: bold;
+  padding-top: 20px;
+}
+/*Styling the first paragraph in footer section*/
+.para{
+  text-align: center;
+  font-style: italic;
+  text-decoration-color: black;
+}
+/*Styling the social icons on the footer section*/
+.social-icons a {
+  display: inline-block;
+  margin: 10px 10px;
+  border-radius: 50%;
+  background-color: black;
+  padding:10px;
+  color:white;
+  text-decoration:none;
+  font-size:18px
+}
 
 
 
