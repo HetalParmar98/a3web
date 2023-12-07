@@ -539,11 +539,11 @@ End Owner: Nuthan Abhiram Chenelli */
 
 .contacttitle img { 
   position: relative;
-  width: 2400px;
+  width: 2300px;
   height: 450px;
   padding-top: 10px;
-  margin-left: 5px;
-  margin-right: 10px;
+  margin-left: 10px;
+  margin-right: 20px;
   z-index: -1;
 }
 
