@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="contactstyle.css">
+</head>
+<body>
+  <nav>
+    <ul>
+      <li><a href="index.html">HOME</a></li>
+      <li><a href="services.html">SERVICES</a></li>
+      <li><a href="software.html">SOFTWARE</a></li>
+      <li><a href="#">BLOG</a></li>
+      <li><a href="aboutus.html">ABOUT US</a></li>
+      <li><a href="ContactUs.html">CONTACT</a></li>
+      <li><a href="testimonials.html">TESTIMONIALS</a></li>
+      <li><a href="#">RESOURCES</a></li>
+      <li><a href="Tutorials.html">TRAINING</a></li>
+      <li class = "rightend"><a href="Getstarted.html">LOGIN</a></li>
+    </ul>
+    </nav>   
+  <!-- source for image: https://unsplash.com/images/stock/non-copyrighted -->
+    <div class="contacttitle">
+        <img src="contact.jpg" alt="Earth at night">
+        <div class="faqname">FAQs and Contact</div>
+    </div>
+
+    <div class="faq">
+        <!-- source for content: https://vgeo.ca/?gclid=Cj0KCQiAsburBhCIARIsAExmsu5GYXHLFWFMg0iPbW9_fvyNFUKrfSnsgYLUbgpyr2KoV10iFFG9yBIaArSUEALw_wcB -->
+      <h2 class = "hd2">Frequently Asked Questions:</h2>
+      <button type="button" class="collapsible">1. Why do you use both proprietary software like ArcGIS and open source software like QGis?</button>
+      <div class="content">
+        <p>After working with GIS software for over 25 years we feel comfortable working with either product. We tailor the software we use to our client needs.</p>
+      </div>
+      <button type="button" class="collapsible">2. Curious about what we mean by affordable services? Wondering if we offer bargain prices?</button>
+      <div class="content">
+        <p>We're delighted you asked. Here's the deal: Many businesses end up overpaying for GIS services. We take pride in providing cost-effective, flexible solutions that align with our clients' budgets. 
+          But let's be clear, we're not a discount vendor. In fact, you'll find our rates to be highly competitive. Here's how you save with us in the short and long term:
+          In the short term, our experienced team and in-house library of tools and templates mean tasks get done efficiently, saving you time and money.
+          In the long term, we excel in setting up cost-effective processes and licensing structures, ensuring you pay only for what you need. No hidden costs or redundant fees; we automate where possible.
+          Also, we only charge for real, tangible services, not inflated metrics like cycle times. You've heard the saying: `If you think you can't afford a professional try hiring an armature.` When you partner with us, you are working with professionals who deliver value through their experience.</p>
+      </div>
+      <button type="button" class="collapsible">3. What do you mean when you say your services are accessible? I don't often hear that term in the context of GIS services.</button>
+      <div class="content">
+        <p>We appreciate your question. We are including the term `accessible` intentionally because it reflects a core value of ours.
+          Over our 25+ years of working with clients, we've noticed a recurring theme: GIS tends to be limited to a select few within organizations. There's a significant barrier to access, created by the nature of GIS data and the way GIS systems are traditionally set up. This lack of accessibility means that the potential of GIS remains largely untapped by most team members in an organization, and that's something we're determined to change.
+          We're dedicated to making GIS accessible to your entire organization. Interested in our approach? Schedule a call today, and let's discuss breaking down barriers for widespread GIS use.</p>
+      </div>
+      <button type="button" class="collapsible">4. What is the hardest thing about GIS?</button>
+      <div class="content">
+        <p>From a client perspective, the hardest thing about GIS is understanding how powerful it is and how you can use it effectively in your business. We work with clients every day to make GIS understandable and accessible. We try to make our deliverables user friendly and to empower our clients to interact with GIS data in an easy way.
+          From a GIS professional perspective the hardest parts of GIS are projections and performance.</p>
+      </div>
+      
+      <script>
+        var coll = document.getElementsByClassName("collapsible");
+        var i;
+        
+        for (i = 0; i < coll.length; i++) {
+          coll[i].addEventListener("click", function() {
+            this.classList.toggle("active");
+            var content = this.nextElementSibling;
+            if (content.style.display === "block") {
+              content.style.display = "none";
+            } else {
+              content.style.display = "block";
+            }
+          });
+        }
+        </script> 
+    </div>    
+<br>
+<div class="Contact">
+    <h2 class="hd2">Contact Us</h2>
+    <p>200 Albert St S, Lindsay, ON K9V 5E6</p>
+    <p>(999)-999-9999</p>
+    <p>nashaconsultancy@gmail.com</p>
+    <p></p>
+     <!-- source for map: google maps - embedded sharing option-->
+    </div>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3068.912087220901!2d-78.73856920588246!3d44.34243341507352!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d58ce9667aaaab%3A0x26e572ce46a757c2!2sFleming%20College%20-%20Frost%20Campus!5e1!3m2!1sen!2sca!4v1701800180733!5m2!1sen!2sca" class="locationmap"></iframe>
+    </body>
+    </html>
+
+    <footer>
+      <!--Creating a container for the footer section-->
+          <div class="container">
+      <!--main heading on footer-->
+          <h1>ENCORE GIS</h1>
+      <!--Leading paragraph to the main heading-->
+          <p><i>Finding your geographic solutions.</i></p>
+          <hr>
+      <!--Creating external social media handle links for users to visit-->
+          <div class="social-icons">
+              <a href="https://twitter.com/" target="_blank">
+              <i class="fa fa-twitter fa-fw"></i>
+              </a>
+              <a href="https://facebook.com/" target="_blank">
+                  <i class="fa fa-facebook fa-fw"></i>
+              </a>
+              <a href="https://instagram.com/" target="_blank">
+              <i class="fa fa-instagram fa-fw"></i>
+              </a>
+              <a href="https://google.com/" target="_blank">
+                  <i class="fa fa-google fa-fw"></i>
+              </a>
+      <!--Providing copyright claim on the consultancy-->
+              <p>&copy; 2023 Encore GIS Consultancy.</p>
+              <p>All rights reserved.</p>
+           </div>
+          </footer>
