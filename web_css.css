@@ -539,8 +539,8 @@ End Owner: Nuthan Abhiram Chenelli */
 
 .contacttitle img { 
   position: relative;
-  width: 1800px;
-  height: 300px;
+  width: 2000px;
+  height: 450px;
   padding-top: 10px;
   margin-left: 10px;
   margin-right: 10px;
@@ -1014,7 +1014,7 @@ input[type=submit]:hover {
     .vl{
         display:none;
     }
-
+}
 /*Styling the font for all the footer content*/
 footer{
     font-family:Verdana;
