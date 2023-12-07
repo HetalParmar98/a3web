@@ -741,9 +741,6 @@ div.desc {
   color: white;
 }
 
-* {
-  box-sizing: border-box;
-}
 
 .training {
   float: left;
@@ -886,6 +883,12 @@ End Owner: Ashwin Balaji Srinivasan */
 
 *******************************/
 /*styling the font for all the body content*/
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
 body {
     background-color:white;
     font-family:Verdana;
