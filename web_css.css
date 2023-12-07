@@ -664,10 +664,6 @@ div.desc {
   ;
 }
 
-* {
-  box-sizing: border-box;
-}
-
 .verticalmenu {
   width: 500px;
   padding-top: 300px;
@@ -732,6 +728,7 @@ div.desc {
 
 .logos {
   padding-top: 50px;
+  margin-left: 20px;
   width: 200px;
   height:200px;
 }
