@@ -123,6 +123,22 @@ li a:hover {
 
 *******************************/
 
+/*quote section start here*/
+
+.abquote {
+   color: black;
+   text-align: center;
+   font-size: 50px;
+   font-family: verdana;
+}
+
+.abquotetext {
+  color: black;
+  text-align: right;
+  font-size: 20px;
+  font-family: verdana;
+}
+
 /* ****************************
 * Owner: Nuthan Abhiram Chenelli
 * Date: 03 November 2023
