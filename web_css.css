@@ -114,12 +114,10 @@ li a:hover {
 /* * Owner: Hetal Parmar
 * Date: 07 December 2023
 * From: https://www.w3schools.com/css/default.asp
- */
+* Code for Blog Page start */
 /*code start here  */
 ************************************
-*{
-  box-sizing: border-box;
-}
+
 .headerpart{
   background-image:url('leaf2.jpg');
   font-size: 45px;
@@ -128,11 +126,6 @@ li a:hover {
   max-width:100%;
   text-align: center;
 }
-
-body {
-  font-family: Arial;
-}
-
 .leftCol {   
   float: left;
   width: 65%;
@@ -165,7 +158,42 @@ p{
 }
 
 /*code ends here  */
+/*Resources Page Css start here  */
 
+.headerpart2{
+    padding:20px;
+    text-align: center;
+    background-color:bisque;
+}
+
+.video{
+    position:relative;
+    padding:80px;
+}
+.video p{
+    margin:auto;
+    padding-top: 30px;
+    width:70%;
+}
+
+.v{width:1000px; height:400px;padding-left:180px;}
+hr{width:90%;}
+/* logo */
+.log1{
+   
+   padding:50px;
+   display: block;
+}
+/* image tag css for size */
+.log1 img{
+    width:150px;height:90px;padding: 60px;
+}
+.log1 p{
+    text-align: center;
+    font-size:20px;
+}
+/*Resources Page Css ends here  */
+*************************************************************
 /*home page image section start here*/
 
 .mainpageimage {                /* https://unsplash.com/s/photos/people-computer */                 
