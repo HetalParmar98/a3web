@@ -157,6 +157,41 @@ li a:hover {
 
 /*code ends here  */
 
+/* Resource Page code  */
+
+.headerpart2{
+    padding:20px;
+    text-align: center;
+    background-color:bisque;
+}
+
+.video{
+    position:relative;
+    padding:80px;
+}
+.video p{
+    margin:auto;
+    padding-top: 30px;
+    width:70%;
+}
+
+.v{width:1000px; height:400px;padding-left:180px;}
+hr{width:90%;}
+/* logo */
+.log1{
+   
+   padding:50px;
+   display: block;
+}
+/* image tag css for size */
+.log1 img{
+    width:150px;height:90px;padding: 60px;
+}
+.log1 p{
+    text-align: center;
+    font-size:20px;
+}
+/* code ends here */
 /*home page image section start here*/
 
 .mainpageimage {                /* https://unsplash.com/s/photos/people-computer */                 
