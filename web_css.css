@@ -154,7 +154,19 @@ li a:hover {
   padding-bottom: 20px;
   width:20%;
 }
+.row01:after{
+  content: "";
+  display: table;
+  clear: both;
+}
 
+  @media screen and (max-width: 800px) {
+    .leftCol, .rightCol {
+      width: 100%;
+      padding: 0;
+    }
+  }
+  
 /*code ends here  */
 
 /* Resource Page code  */
