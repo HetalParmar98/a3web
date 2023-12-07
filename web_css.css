@@ -111,7 +111,60 @@ li a:hover {
 * From: https://www.w3schools.com/css/default.asp
 
 *******************************/
+/* * Owner: Hetal Parmar
+* Date: 07 December 2023
+* From: https://www.w3schools.com/css/default.asp
+ */
+/*code start here  */
+************************************
+*{
+  box-sizing: border-box;
+}
+.headerpart{
+  background-image:url('leaf2.jpg');
+  font-size: 45px;
+  padding: 90px 90px;
+  color: white ;
+  max-width:100%;
+  text-align: center;
+}
 
+body {
+  font-family: Arial;
+}
+
+.leftCol {   
+  float: left;
+  width: 65%;
+}
+
+/* Right column */
+.rightCol{
+  float: left;
+  width: 25%;
+  padding-left: 20px;
+}
+
+.Post{
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.Post h2{
+  background-color: bisque;
+  
+}
+.imgnews{
+  padding-bottom: 20px;
+  width:20%;
+}
+p{
+  text-align: left;
+  font-size: 20px;
+}
+
+/*code ends here  */
 
 /*home page image section start here*/
 
@@ -198,7 +251,7 @@ li a:hover {
   width: 80%;
 }
 
-.surveyingabimg {          /* https://www.shutterstock.com/search/land-surveyor */  
+.surveyingabpic {          /* https://www.shutterstock.com/search/land-surveyor */  
   float: left;
   width: 300px;
   height: 300px;
@@ -233,7 +286,7 @@ li a:hover {
   width: 80%;
 }
 
-.cartoimg {             /* https://en.wikipedia.org/wiki/File:World_Map_1689.JPG */ 
+.cartopic {             /* https://en.wikipedia.org/wiki/File:World_Map_1689.JPG */ 
   float: left;
   width: 300px;
   height: 300px;
@@ -268,7 +321,7 @@ li a:hover {
   width: 80%;
 }
 
-.datamimg {         /*  https://www.dreamstime.com/photos-images/data-management.html */ 
+.datampic {         /*  https://www.dreamstime.com/photos-images/data-management.html */ 
   float: left;
   width: 300px;
   height: 300px;
@@ -302,7 +355,7 @@ li a:hover {
   width: 80%;
 }
 
-.remotesimg {      /* https://depositphotos.com/photos/remote-sensing.html*/ 
+.remotespic {      /* https://depositphotos.com/photos/remote-sensing.html*/ 
   float: left;
   width: 300px;
   height: 300px;
@@ -337,7 +390,7 @@ li a:hover {
   padding-bottom: 10px;
 }
 
-.webandappimg {         /* https://pixabay.com/images/search/web%20design/ */ 
+.webandapppic {         /* https://pixabay.com/images/search/web%20design/ */ 
   float: left;
   width: 300px;
   height: 300px;
@@ -877,7 +930,10 @@ li a:hover {
   .rightend {
    float: right;
   }
-/*Sushmita Acharya*/
+/* Owner: Sushmita Acharya */
+/* Date: 05 December 2023 */
+/* w3schools https://www.w3schools.com/ */
+
 /*styling the main heading on the page*/
 .head1ng h1{
     text-align:center;
@@ -917,7 +973,7 @@ input[type=button]:hover {
 /*Styling the main container*/
 .containergs{
     width:100%;
-    height:675px;
+    height:600px;
     position:relative;
     text-align:center;
     align-items: center;
@@ -1017,8 +1073,7 @@ footer{
     font-family:Verdana;
     text-align: center;
 }
-/*End Sushmita Acharya*/
-/*Sushmita Acharya*/
+
 /*Styling the container for the footer section*/
 .container{
     margin-top:10px;
@@ -1053,6 +1108,7 @@ footer{
     font-size:18px
 
 }
+/* End Owner: Sushmita Acharya  */
 
 
 
