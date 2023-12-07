@@ -588,11 +588,11 @@ End Owner: Nuthan Abhiram Chenelli */
 
 .contacttitle img { 
   position: relative;
-  width: 2400px;
+  width: 1800px;
   height: 450px;
-  padding-top: 10px;
+  padding-top: 30px;
   margin-left: 2%;
-  margin-right: 1%;
+  margin-right: 4%;
   z-index: -1;
 }
 
@@ -787,7 +787,7 @@ div.desc {
 .rowz::after {
   content: "";
   clear: both;
-  display: table;
+  display: grid;
 }
 
 /* Details relate to CSS of the tutorial page ends here
@@ -967,7 +967,6 @@ input[type=button]:hover {
     border-radius: 10px;
     background-color:whitesmoke;
     padding: 75px 75px ;
-    box-sizing: border-box;
 }
 /*Styling all the user input tab and other clcik buttons*/
 input,
@@ -1059,6 +1058,7 @@ input[type=submit]:hover {
 /*Styling the font for all the footer content*/
 footer{
     font-family:Verdana;
+    text-align: center;
 }
 
 /*Styling the container for the footer section*/
