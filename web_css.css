@@ -837,52 +837,49 @@ End Owner: Ashwin Balaji Srinivasan */
 * Owner: Naini Singh
 
 *******************************/
-/*Styling the container for the footer section*/
-
-.containerfoot{
-  width:100%;
-  height:275px;
-  position:relative;
-  text-align:center;
-  align-items: center;
-  background-color:beige;
-}
-/*Adjusting the footer content on center*/
+/*Styling the font for all the footer content*/
 footer{
-  text-align: center;
+    font-family:Verdana;
+    text-align: center;
 }
 /*Assigning box size for the contained element*/
 *{
-  box-sizing: border-box;
+    box-sizing: border-box;
 }
-
+/*Styling the container for the footer section*/
+.container{
+    margin-top:10px;
+    width:100%;
+    height:265px;
+    position:relative;
+    text-align:center;
+    align-items: center;
+    background-color:beige;
+    padding: 30px 30px;
+}
 /*Styling the main heading in footer section*/
-
 .head1{
-  text-align: center;
-  font-style: bold;
-  padding-top: 20px;
+    text-align: center;
+    font-style: normal;
 }
 /*Styling the first paragraph in footer section*/
-
-.para{
-  text-align: center;
-  font-style: italic;
-  text-decoration-color: black;
+.para1{
+    text-align: center;
+    font-style: italic;
+    text-decoration-color: black;
 }
 /*Styling the social icons on the footer section*/
-
 .social-icons a {
-  display: inline-block;
-  margin: 10px 10px;
-  border-radius: 50%;
-  background-color: black;
-  padding:10px;
-  color:white;
-  text-decoration:none;
-  font-size:18px
-}
+    display: inline-block;
+    margin: 10px 10px;
+    border-radius: 50%;
+    background-color: black;
+    padding:10px;
+    color:white;
+    text-decoration:none;
+    font-size:18px
 
+}
 
 
 
