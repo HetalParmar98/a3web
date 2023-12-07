@@ -490,7 +490,7 @@ hr{width:90%;}
 .softwareimg {
   width: 1400px;
   height: 600px;
-  opacity: 0.6;
+  opacity: 0.4;
 }
 
 .centered {
@@ -504,7 +504,7 @@ hr{width:90%;}
 }
 
 #softwaretext {
-  color: black;
+  color: white;
   text-align: center;
   font-size: 50px;
   font-family: verdana;
