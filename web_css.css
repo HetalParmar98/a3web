@@ -141,7 +141,7 @@ li a:hover {
 .centered1 {
   position: absolute;
   left: 50%;
-  transform: translate(-50%, -150%);
+  transform: translate(-50%, -250%);
   font-size: 55px;
   font-style: normal;
   font-weight: bold;
