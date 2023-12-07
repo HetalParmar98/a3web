@@ -111,7 +111,60 @@ li a:hover {
 * From: https://www.w3schools.com/css/default.asp
 
 *******************************/
+/* * Owner: Hetal Parmar
+* Date: 07 December 2023
+* From: https://www.w3schools.com/css/default.asp
+ */
+/*code start here  */
+************************************
+*{
+  box-sizing: border-box;
+}
+.headerpart{
+  background-image:url('leaf2.jpg');
+  font-size: 45px;
+  padding: 90px 90px;
+  color: white ;
+  max-width:100%;
+  text-align: center;
+}
 
+body {
+  font-family: Arial;
+}
+
+.leftCol {   
+  float: left;
+  width: 65%;
+}
+
+/* Right column */
+.rightCol{
+  float: left;
+  width: 25%;
+  padding-left: 20px;
+}
+
+.Post{
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.Post h2{
+  background-color: bisque;
+  
+}
+.imgnews{
+  padding-bottom: 20px;
+  width:20%;
+}
+p{
+  text-align: left;
+  font-size: 20px;
+}
+
+/*code ends here  */
 
 /*home page image section start here*/
 
