@@ -1066,7 +1066,6 @@ input[type=submit]:hover {
     right:50%;
     border: 1px solid;
     height: 415px;
-    box-sizing: border-box;
 }
 /*Styling the text on within the vertical line*/
 .vl-innertext{
