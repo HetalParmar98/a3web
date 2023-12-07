@@ -1001,7 +1001,6 @@ input[type=button]:hover {
     align-items:center;
     border-radius:10px;
     background-color:whitesmoke;
-    padding: 75px 75px ;
 }
 /*Styling all the user input tab and other clcik buttons*/
 input,
@@ -1084,11 +1083,7 @@ input[type=submit]:hover {
         width:100%;
         margin-top:0
     }
-/*Not displayig the vertical line on the small screen*/
-    .vl{
-        display:none;
-    }
-
+    
 /*Styling the font for all the footer content*/
 footer{
     font-family:Verdana;
