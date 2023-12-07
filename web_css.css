@@ -1020,10 +1020,8 @@ footer{
     font-family:Verdana;
     text-align: center;
 }
-/*Assigning box size for the contained element*/
-*{
-    box-sizing: border-box;
-}
+/*End Sushmita Acharya*/
+/*Sushmita Acharya*/
 /*Styling the container for the footer section*/
 .container{
     margin-top:10px;
