@@ -537,10 +537,8 @@ End Owner: Nuthan Abhiram Chenelli */
   
 }
 
-img { 
+.contacttitle img { 
   position: relative;
-  width: 100%;
-  height: auto;
   width: 1500px;
   height: 300px;
   padding-top: 10px;
