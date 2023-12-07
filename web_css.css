@@ -967,6 +967,7 @@ input[type=button]:hover {
     border-radius: 10px;
     background-color:whitesmoke;
     padding: 75px 75px ;
+    box-sizing: border-box;
 }
 /*Styling all the user input tab and other clcik buttons*/
 input,
