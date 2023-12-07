@@ -411,7 +411,7 @@ li a:hover {
 
 /*Details related to software columns page starts here*/
 
-.column {
+.columnab {
   float: left;
   width: 27%;
   height: 350px;
@@ -421,7 +421,7 @@ li a:hover {
   border-radius: 10px;
 }
 
-.row:after {
+.rowab:after {
   content: "";
   display: table;
   clear: both;
@@ -429,14 +429,14 @@ li a:hover {
 }
 
 
-.column h2{
+.columnabb h2{
   color: navy;
   font-style: italic;
   font-size: 35px;
   text-align: center;
 }
 
-.column p{
+.columnabb p{
   color: black;
   font-size: 18px;
   text-align: center;
