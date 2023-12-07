@@ -264,22 +264,6 @@ hr{width:90%;}
   color: white;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* ****************************
 * Owner: Nuthan Abhiram Chenelli
 * Date: 03 November 2023
@@ -506,7 +490,7 @@ hr{width:90%;}
 .softwareimg {
   width: 1400px;
   height: 600px;
-  opacity: 0.6;
+ 
 }
 
 .centered {
@@ -520,7 +504,7 @@ hr{width:90%;}
 }
 
 #softwaretext {
-  color: black;
+  color: white;
   text-align: center;
   font-size: 50px;
   font-family: verdana;
