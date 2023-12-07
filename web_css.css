@@ -64,19 +64,6 @@ li a:hover {
     padding-left: 20px;
   }
   
- 
-.team_img {
-    background-color: white;
-    padding-bottom: 40px;
-    padding-top: 20px;
-    margin: 0;
-    max-width: 300px;
-    float: left;
-    height: 50%;
-    width: 50%;
-  }
-  
-  
 .inner {
     background-color: white;
     padding: 50px;
