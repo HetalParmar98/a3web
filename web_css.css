@@ -998,15 +998,15 @@ input[type=button]:hover {
     height:600px;
     position:relative;
     text-align:center;
-    align-items: center;
-    border-radius: 10px;
+    align-items:center;
+    border-radius:10px;
     background-color:whitesmoke;
     padding: 75px 75px ;
 }
 /*Styling all the user input tab and other clcik buttons*/
 input,
 .btn{
-    width:100%;
+    width:80%;
     padding: 14px;
     border: none;
     border-radius: 6px;
@@ -1048,7 +1048,6 @@ input[type=submit]:hover {
     float:left;
     width:50%;
     margin:auto;
-    padding: 0 50px;
     margin-top: 6px;
 }
 /*Styling the elements within class row*/
@@ -1067,6 +1066,7 @@ input[type=submit]:hover {
     right:50%;
     border: 1px solid;
     height: 415px;
+    box-sizing: border-box;
 }
 /*Styling the text on within the vertical line*/
 .vl-innertext{
