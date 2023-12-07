@@ -123,13 +123,33 @@ li a:hover {
 
 *******************************/
 
-/*quote section start here*/
+/*home page image section start here*/
 
-.mainpageimage
+.mainpageimage {                /* https://unsplash.com/s/photos/people-computer */                 
+  position: center;
+  text-align: center;
+  color: white;
+  border-radius: 10px;
+  padding-top: 50px;
+}
 
+.mainpageimg {
+  width: 1400px;
+  height: 600px;
+  opacity: 0.6;
+}
 
+.centered1 {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -150%);
+  font-size: 55px;
+  font-style: normal;
+  font-weight: bold;
+  color: white;
+}
 
-
+/*home page image section ends here*/
 
 .abquote {
    color: black;
