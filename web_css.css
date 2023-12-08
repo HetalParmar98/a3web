@@ -131,6 +131,9 @@ li a:hover {
 .col01 img{
  width:100%
 }
+.col01 p{
+  font-size:10px;
+ }
 /* Clearfix (clear floats) */
 .box001::after {
   content: "";
