@@ -653,13 +653,13 @@ End Owner: Nuthan Abhiram Chenelli */
 }
 
 .contacttitle img { 
-  position:sticky;
+  position:relative;
+  z-index:-1;
   width: 1800px;
   height: 450px;
-  padding-top: 30px;
-  margin-left: 2%;
-  margin-right: 4%;
-  z-index: -1;
+  margin-top: 10px;
+  margin-left: 1%;
+  margin-right: 10%;
 }
 
 .collapsible {
@@ -689,7 +689,7 @@ End Owner: Nuthan Abhiram Chenelli */
 .locationmap {
 
   margin-left: 20px; 
-  width: 2000px;
+  width: 1800px;
   height: 400px;
   }
 
