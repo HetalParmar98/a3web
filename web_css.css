@@ -120,7 +120,7 @@ li a:hover {
 .ind{
    *{box-sizing: border-box};
   text-align: center;
-  font-size: 10px;
+  font-size: 20px;
   color:green;
   font-family: 'Gill Sans';
 }
@@ -135,10 +135,11 @@ li a:hover {
 }
 .col01 h4{ 
   color:black;
+  font-size: 18px;
 }
 
 .col01 p{
-  font-size:9px;
+  font: size 18px;
  }
 .box001::after {
   content: "";
