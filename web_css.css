@@ -133,6 +133,9 @@ li a:hover {
 .col01 img{
  width:60%
 }
+.col01 h4{ 
+  color:black;
+}
 
 .col01 p{
   font-size:9px;
@@ -175,6 +178,8 @@ li a:hover {
   background-color: bisque;
   
 }
+.image-01 p{color:green;font:Gill Sans;
+}
 .imgnews{
   padding-bottom: 20px;
   width:20%;
@@ -212,7 +217,8 @@ li a:hover {
     width:70%;
 }
 
-.v{width:1000px; height:400px;padding-left:180px;}
+.v{width:1000px; height:400px;padding-left:180px;
+  color:green;
 hr{width:90%;}
 /* logo */
 .log1{
