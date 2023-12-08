@@ -116,7 +116,32 @@ li a:hover {
 * From: https://www.w3schools.com/css/default.asp
  */
 /*code start here  */
-************************************
+/* ************************************ */
+/* code for index page */
+.col01 {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.box001::after {
+  content: "";
+  clear: both;
+  display: table;}
+
+  @media screen and (max-width: 800px) {
+    .leftcolumn, .rightcolumn {
+      width: 100%;
+      padding: 0;
+    }
+  }
+
+.ind{
+  text-align: center;
+  font-size: 40px;
+}
+
 
 .tophead{
  background-image:url('image/leaf2.jpg');
