@@ -116,35 +116,12 @@ li a:hover {
 * From: https://www.w3schools.com/css/default.asp
  */
 /*code start here  */
-/* ************************************ */
-/* code for index page */
+************************************
 
-.ind{
-  text-align: center;
-  font-size: 40px;
-}
-.col01 {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-.col01 img{
- width:100%
-}
-.col01 p{
-  font-size:10px;
- }
-/* Clearfix (clear floats) */
-.box001::after {
-  content: "";
-  clear: both;
-  display: table;}
-
-/*  */
 .tophead{
- background-image:url('image/leaf2.jpg');
+  background-image:url('leaf2.jpg');
   font-size: 45px;
-  padding-top:100px;
+  padding: 90px 90px;
   color: white ;
   max-width:100%;
   text-align: center;
@@ -195,7 +172,7 @@ li a:hover {
 /* Resource Page code  */
 
 .headerpart2{
-    padding:60px;
+    padding:20px;
     text-align: center;
     background-color:bisque;
 }
@@ -275,7 +252,8 @@ hr{width:90%;}
   font-family: verdana;
 }
 
-.CADandSurveyingpic {                                
+
+.CADandSurveyingHM1pic {                /* https://unsplash.com/s/photos/people-computer */                 
   position: center;
   text-align: center;
   color: white;
@@ -298,30 +276,7 @@ hr{width:90%;}
   color: white;
 }
 
-.CustomCartographyHM2 {                               
-  position: center;
-  text-align: center;
-  color: white;
-  border-radius: 10px;
-  padding-top: 50px;
-}
-
-.CustomCartographypic{
-  width: 1700px;
-  height: 500px;
-}
-
-.centered3 {
-  position: absolute;
-  left: 50%;
-  transform: translate(-50%, -250%);
-  font-size: 55px;
-  font-style: normal;
-  font-weight: bold;
-  color: white;
-}
-
-/* ***************************
+/* ****************************
 * Owner: Nuthan Abhiram Chenelli
 * Date: 03 November 2023
 * From: https://www.w3schools.com/css/default.asp
@@ -557,7 +512,7 @@ hr{width:90%;}
   font-size: 55px;
   font-style: italic;
   font-weight: bold;
-  color: white;
+  color: black;
 }
 
 #softwaretext {
@@ -698,7 +653,7 @@ End Owner: Nuthan Abhiram Chenelli */
 }
 
 .contacttitle img { 
-  position: relative;
+  position:sticky;
   width: 1800px;
   height: 450px;
   padding-top: 30px;
