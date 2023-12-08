@@ -189,13 +189,6 @@ li a:hover {
   display: table;
   clear: both;
 }
-
-  @media screen and (max-width: 800px) {
-    .leftCol, .rightCol {
-      width: 100%;
-      padding: 0;
-    }
-  }
   
 /*code ends here  */
 
