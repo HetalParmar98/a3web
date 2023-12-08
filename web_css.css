@@ -115,13 +115,36 @@ li a:hover {
 * Date: 07 December 2023
 * From: https://www.w3schools.com/css/default.asp
  */
-/*code start here  */
-************************************
+/*index page code start here  */
+/* i************************************ */
+.ind{
+   *{box-sizing: border-box};
+  text-align: center;
+  font-size: 10px;
+}
+.col01 {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
 
+.col01 img{
+ width:60%
+}
+
+.col01 p{
+  font-size:5px;
+ }
+.box001::after {
+  content: "";
+  clear: both;
+  display: table;}
+
+/* index page code ends here */
 .tophead{
-  background-image:url('leaf2.jpg');
+  background-image:url('image/leaf2.jpg');
   font-size: 45px;
-  padding: 90px 90px;
+  padding:100px;
   color: white ;
   max-width:100%;
   text-align: center;
