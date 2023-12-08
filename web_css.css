@@ -128,7 +128,9 @@ li a:hover {
   width: 33.33%;
   padding: 5px;
 }
-
+.col01 img{
+ width:100%
+}
 /* Clearfix (clear floats) */
 .box001::after {
   content: "";
