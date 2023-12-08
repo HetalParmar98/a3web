@@ -253,8 +253,7 @@ hr{width:90%;}
   font-family: verdana;
 }
 
-
-.CADandSurveyingHM1pic {                /* https://unsplash.com/s/photos/people-computer */                 
+.CADandSurveyingpic {                                
   position: center;
   text-align: center;
   color: white;
@@ -277,7 +276,30 @@ hr{width:90%;}
   color: white;
 }
 
-/* ****************************
+.CustomCartographyHM2 {                               
+  position: center;
+  text-align: center;
+  color: white;
+  border-radius: 10px;
+  padding-top: 50px;
+}
+
+.CustomCartographypic{
+  width: 1700px;
+  height: 500px;
+}
+
+.centered3 {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -250%);
+  font-size: 55px;
+  font-style: normal;
+  font-weight: bold;
+  color: white;
+}
+
+/* ***************************
 * Owner: Nuthan Abhiram Chenelli
 * Date: 03 November 2023
 * From: https://www.w3schools.com/css/default.asp
