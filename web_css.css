@@ -121,11 +121,10 @@ li a:hover {
 .tophead{
  background-image:url('image/leaf2.jpg');
   font-size: 45px;
-  padding:60px;
+  padding-top:100px;
   color: white ;
   max-width:100%;
   text-align: center;
-  z-index: 1;
 }
 
 
