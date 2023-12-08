@@ -292,29 +292,6 @@ hr {width:80%;
 }
 
 
-.CADandSurveyingHM1pic {                /* https://unsplash.com/s/photos/people-computer */                 
-  position: center;
-  text-align: center;
-  color: white;
-  border-radius: 10px;
-  padding-top: 50px;
-}
-
-.CADandSurveying {
-  width: 1700px;
-  height: 500px;
-}
-
-.centered2 {
-  position: absolute;
-  left: 50%;
-  transform: translate(-50%, -250%);
-  font-size: 55px;
-  font-style: normal;
-  font-weight: bold;
-  color: white;
-}
-
 /* ****************************
 * Owner: Nuthan Abhiram Chenelli
 * Date: 03 November 2023
