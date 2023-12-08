@@ -120,7 +120,6 @@ li a:hover {
 .ind{
   text-align: center;
   font-size: 40px;
-  box-sizing: border-box;
 }
 .col01 {
   float: left;
@@ -129,7 +128,7 @@ li a:hover {
 }
 
 .col01 img{
- width:100%
+ width:60%
 }
 
 .col01 p{
