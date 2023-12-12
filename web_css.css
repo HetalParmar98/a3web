@@ -500,7 +500,6 @@ hr {width:80%;
 /*Details related to software page starts here*/
 
 .firstimage {                /* https://unsplash.com/s/photos/people-computer */                 
-  position: center;
   text-align: center;
   color: white;
   border-radius: 10px;
