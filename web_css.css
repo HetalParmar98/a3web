@@ -118,7 +118,7 @@ li a:hover {
 /*index page code start here  */
 /* i************************************ */
 .ind{
-   *{box-sizing: border-box};
+   
   text-align: center;
   font-size: 20px;
   color:green;
@@ -139,7 +139,7 @@ li a:hover {
 }
 
 .col01 p{
-  font: size 18px;
+  font-size: 18px;
  }
 .box001::after {
   content: "";
@@ -179,8 +179,7 @@ li a:hover {
   background-color: bisque;
   
 }
-.image-01 p{color:green;font:Gill Sans;
-}
+.image-01 p{color:green;font-family:Gill Sans;}
 .imgnews{
   padding-bottom: 20px;
   width:20%;
